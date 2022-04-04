@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. H
+          Tarea click
         </p>
         <a
           className="App-link"
-          href="https://genshin.hoyoverse.com/en/download?gclid=CjwKCAjwrqqSBhBbEiwAlQeqGg3jO3ROiPq7MFVXoKma5U804w_WK5uOwWl-DvYKEqI2oMi54zA5yhoCR9QQAvD_BwE"
+          href="https://www.youtube.com/watch?v=mCdA4bJAGGk"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Aquí
         </a>
       </header>
     </div>

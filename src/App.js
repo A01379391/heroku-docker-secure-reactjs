@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Que tal
+          Edit <code>src/App.js</code> and save to reload. H
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://genshin.hoyoverse.com/en/download?gclid=CjwKCAjwrqqSBhBbEiwAlQeqGg3jO3ROiPq7MFVXoKma5U804w_WK5uOwWl-DvYKEqI2oMi54zA5yhoCR9QQAvD_BwE"
           target="_blank"
           rel="noopener noreferrer"
         >
